@@ -4,6 +4,16 @@ Seu espaço de comandos para Windows. **By Fagner Lemes.**
 
 Painel personalizável com perfis, atalhos, widgets de CPU/GPU, armazenamento, rede, música, controles rápidos e mini navegador.
 
+![Painel do Deck Studio 1.0.1 com perfis, atalhos, widgets e mini navegador](painel-1.0.1.jpg)
+
+*Painel da versão 1.0.1, com dois espaços livres para novos botões. Captura do aplicativo Windows em uma sessão de demonstração.*
+
+## Personalize seu Deck
+
+Escolha entre Liquid Glass, Dark Minimal e Neon Glass. Ajuste transparência, desfoque, arredondamento, sombras, reflexos e brilho das bordas, além do fundo e da iluminação.
+
+![Configurações de aparência do Deck Studio com temas e ajustes do material dos quadros](aparencia-1.0.1.jpg)
+
 ## Downloads oficiais
 
 - [Versão mais recente](https://github.com/fagnerlemes/DeckStudio/releases/latest)
