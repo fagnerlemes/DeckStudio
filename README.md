@@ -4,7 +4,7 @@ Seu espaço de comandos para Windows. **By Fagner Lemes.**
 
 Aplicativos, informações do computador e controles do dia a dia em um painel personalizável.
 
-[Baixar versão oficial](https://github.com/fagnerlemes/DeckStudio/releases/latest) · [Histórico de versões](https://github.com/fagnerlemes/DeckStudio/releases) · [Relatar um problema](https://github.com/fagnerlemes/DeckStudio/issues)
+[Patch Atual 1.0.2](https://github.com/fagnerlemes/DeckStudio/releases/tag/v1.0.2) · [Baixar versão oficial](https://github.com/fagnerlemes/DeckStudio/releases/latest) · [Histórico de versões](https://github.com/fagnerlemes/DeckStudio/releases) · [Relatar um problema](https://github.com/fagnerlemes/DeckStudio/issues)
 
 ## Deck Studio na sua segunda tela
 
@@ -60,6 +60,7 @@ Os recortes abaixo preservam a interface dos prints enviados. Nas janelas aberta
 
 ## Downloads oficiais
 
+- [Patch Atual 1.0.2](https://github.com/fagnerlemes/DeckStudio/releases/tag/v1.0.2) — cumulativo para a 1.0.2 original ou com Fixes 1–6. Inclui fundos CSS ajustáveis e todas as melhorias anteriores. **Aplicação manual; requer 1.0.2 instalada.** Não é instalador completo nem atualização da 1.0.1.
 - [Versão mais recente](https://github.com/fagnerlemes/DeckStudio/releases/latest)
 - [Histórico de versões](https://github.com/fagnerlemes/DeckStudio/releases)
 
