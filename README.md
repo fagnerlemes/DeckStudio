@@ -2,84 +2,75 @@
 
 Seu espaço de comandos para Windows. **By Fagner Lemes.**
 
-Aplicativos, informações do computador e controles do dia a dia em um painel personalizável.
+Aplicativos, pastas, informações do computador e controles do dia a dia em um painel personalizável.
 
-[Patch Atual 1.0.2](https://github.com/fagnerlemes/DeckStudio/releases/tag/v1.0.2) · [Baixar versão oficial](https://github.com/fagnerlemes/DeckStudio/releases/latest) · [Histórico de versões](https://github.com/fagnerlemes/DeckStudio/releases) · [Relatar um problema](https://github.com/fagnerlemes/DeckStudio/issues)
+**Versão atual: 1.1.3** — reúne o conteúdo da 1.1.0 com o Patch Fix 3, agora com numeração própria.
 
-## Deck Studio na sua segunda tela
+[Baixar instalador completo](https://github.com/fagnerlemes/DeckStudio/releases/download/v1.1.3/DeckStudio-1.1.3-x64-setup.exe) · [Baixar patch](https://github.com/fagnerlemes/DeckStudio/releases/download/v1.1.3/DeckStudio-1.1.3-Patch-x64.exe) · [Histórico de atualizações](CHANGELOG.md)
 
-[![Mockup de um computador com o Deck Studio em um monitor portátil à frente do monitor principal](docs/images/deck-studio-mockup.png)](docs/images/deck-studio-mockup.png)
+## Qual arquivo baixar?
 
-*Mockup ilustrativo de uso em uma tela portátil de 15,6″. A disposição do equipamento é uma simulação.*
-
-## Conheça o painel
-
-[![Deck Studio: painel com perfis, atalhos e widgets; abaixo, explicações de CPU, GPU, RAM, armazenamento, rede, relógio, tarefas, música, controles rápidos e mini navegador](docs/images/deck-studio-painel.png)](docs/images/deck-studio-painel.png)
-
-As imagens desta apresentação usam capturas da **versão 1.0.2**, fornecidas pelo autor. Clique nas imagens para ampliar. Os pacotes publicados estão em [Releases](https://github.com/fagnerlemes/DeckStudio/releases).
-
-| Parte do painel | O que você pode fazer |
+| Pacote | Quando usar |
 | --- | --- |
-| Perfis e páginas | Separar rotinas, aplicativos e layouts. Criar, renomear e duplicar perfis. |
-| Botões | Abrir aplicativos e destinos, escolher ícones e definir o comportamento ao clicar. |
-| Organização | Arrastar widgets, ajustar tamanhos na grade e organizar os espaços do painel. |
-| CPU, GPU e RAM | Acompanhar uso e memória; ver temperaturas quando o hardware e as permissões permitem. |
-| Armazenamento | Ver espaço livre e usado e escolher a unidade nas opções do widget. |
-| Rede | Acompanhar download, upload e a conexão por Wi-Fi ou cabo. |
-| Relógio e tarefas | Consultar horário, data e calendário e manter lembretes no painel. |
-| Música | Ver a mídia identificada, a capa quando disponível e os controles de reprodução. |
-| Controles rápidos | Ajustar volume, silenciar áudio ou microfone e controlar Bluetooth. |
-| Mini navegador | Abrir sites e vídeos dentro do painel e recolher os controles para ampliar o conteúdo. |
+| **Instalador completo 1.1.3** | Primeira instalação ou atualização de qualquer versão anterior. Não precisa desinstalar. |
+| **Patch 1.1.3** | Atualização menor para quem tem **1.1.0 Fix 2 ou Fix 3**. A base é conferida antes de alterar arquivos. |
 
-## Personalize seu Deck
+Conclua ou cancele edições abertas antes de atualizar. Perfis, botões, widgets, layouts, configurações e dados locais do navegador são preservados. O patch fecha e reabre o Deck se ele estiver em execução.
 
-[![Personalização do Deck Studio: criação de botões, ajustes individuais de vidro e bordas, temas por perfil, cores e iluminação do fundo](docs/images/deck-studio-personalizacao.png)](docs/images/deck-studio-personalizacao.png)
+## Guia rápido
 
-- **Criação de botões:** escolha o destino, a ação, o nome e o ícone. Use a imagem do aplicativo, pesquise ícones ou envie uma imagem.
-- **Aparência individual:** personalize a cor e o material de um botão ou widget, com prévia.
-- **Tema do perfil:** escolha Liquid Glass, Dark Minimal ou Neon Glass. Ajuste opacidade, desfoque, arredondamento, sombras, reflexos e brilho.
-- **Fundo e iluminação:** use uma das paletas, escolha uma cor ou adicione sua imagem de fundo.
-- **Tela e inicialização:** escolha em qual monitor o painel deve abrir.
-- **Backup e dados:** exporte e restaure perfis, páginas, atalhos, widgets e imagens. Logins do navegador e programas instalados permanecem no computador.
+As sete telas abaixo são do guia disponível no programa. Clique em uma imagem para ampliar. Você pode rever o carrossel em **Configurações → Guia rápido** ou marcar **Não mostrar novamente ao abrir**.
 
-<details>
-<summary><strong>Ver os seis prints individualmente</strong></summary>
+### 1. Seu espaço de comandos
 
-Os recortes abaixo preservam a interface dos prints enviados. Nas janelas abertas, as laterais desfocadas foram retiradas para dar destaque aos controles.
+[![Bem-vindo ao Deck Studio: aplicativos, widgets e perfis em um painel personalizável](docs/images/01-boas-vindas.png)](docs/images/01-boas-vindas.png)
 
-| Captura | Detalhes |
-| --- | --- |
-| [Painel completo](docs/images/painel-1.0.2.png) | Perfis, atalhos e widgets em uso. |
-| [Adicionar widget](docs/images/widgets-1.0.2.png) | Catálogo de widgets para compor a página. |
-| [Criar botão](docs/images/criar-botao-1.0.2.png) | Aplicativo, destino, ação, nome e ícone. |
-| [Aparência do botão](docs/images/vidro-botao-1.0.2.png) | Prévia, cor, transparência, desfoque, bordas e reflexos. |
-| [Tema e aparência](docs/images/aparencia-1.0.2.png) | Temas e material padrão dos quadros do perfil. |
-| [Fundo e iluminação](docs/images/fundo-1.0.2.png) | Paletas, intensidade, desfoque e imagem de fundo. |
+### 2. Arraste um atalho para o Deck
 
-</details>
+[![Arraste um atalho da área de trabalho para um espaço livre; o original permanece na área de trabalho](docs/images/02-arrastar-atalho.png)](docs/images/02-arrastar-atalho.png)
 
-## Downloads oficiais
+O Deck identifica o destino e cria o botão. Você também pode usar **Adicionar botão** para escolher um aplicativo, arquivo ou pasta.
 
-- [Patch Atual 1.0.2](https://github.com/fagnerlemes/DeckStudio/releases/tag/v1.0.2) — cumulativo para a 1.0.2 original ou com Fixes 1–6. Inclui fundos CSS ajustáveis e todas as melhorias anteriores. **Aplicação manual; requer 1.0.2 instalada.** Não é instalador completo nem atualização da 1.0.1.
-- [Versão mais recente](https://github.com/fagnerlemes/DeckStudio/releases/latest)
-- [Histórico de versões](https://github.com/fagnerlemes/DeckStudio/releases)
+### 3. Organize o painel
 
-Baixe o arquivo `DeckStudio-<versão>-x64-setup.exe` nos anexos da release. Os arquivos chamados “Source code”, gerados pelo GitHub, contêm a documentação deste repositório e não são o instalador.
+[![Mover, redimensionar e encaixar widgets; espaço reservado para manter uma área livre](docs/images/03-organizar.png)](docs/images/03-organizar.png)
+
+Em **Organizar**, ajuste os tamanhos e posições. Um widget novo que ficar fora da área precisa ser encaixado ou ter a inclusão cancelada antes de concluir.
+
+### 4. Crie perfis para suas rotinas
+
+[![Perfis com ícones próprios, duplicação, edição e alteração da ordem; lateral recolhível](docs/images/04-perfis.png)](docs/images/04-perfis.png)
+
+Recolher a lateral libera espaço para o painel. Ao reabrir, o menu aparece sobre os itens, sem reorganizá-los.
+
+### 5. Personalize cada detalhe
+
+[![Temas, fundos, cores, transparência, reflexos e brilho do perfil ou de cada elemento](docs/images/05-personalizacao.png)](docs/images/05-personalizacao.png)
+
+Escolha temas e fundos em CSS, altere cores ou use sua imagem. A aparência também pode ser ajustada individualmente em botões e widgets.
+
+### 6. Escolha seus widgets
+
+[![Widgets de sistema, jogos, música e rede, com opções nos três pontos](docs/images/06-widgets.png)](docs/images/06-widgets.png)
+
+CPU, GPU, RAM, armazenamento, rede, relógio, tarefas, música, controles rápidos, navegador, Pastas, Jogos, Iluminação e Espaço reservado. **Pastas** oferece busca, navegação, lista com data de modificação quando há espaço e ícones grandes.
+
+Temperaturas dependem do suporte do hardware e das permissões locais. Iluminação requer SignalRGB compatível. O widget Jogos usa um coletor de desempenho; sua LAT é a medida de apresentação até conclusão na GPU e pode diferir da exibida pelo Alt+R da NVIDIA.
+
+### 7. Recolha, restaure e faça backup
+
+[![Recolher e restaurar o Deck com Ctrl+Alt+D ou pela lingueta; exportar backup nas Configurações](docs/images/07-acesso-backup.png)](docs/images/07-acesso-backup.png)
+
+**Ctrl + Alt + D** é o atalho padrão, alterável nas Configurações. A lingueta lateral também traz o Deck de volta. Exporte uma cópia do seu painel em **Configurações → Backup e dados**.
 
 ## Atualizar pelo programa
 
-Na versão 1.0.0, abra **Configurações → Atualizações → Verificar atualizações**. A consulta é manual; não ocorre automaticamente na abertura. Havendo uma versão estável mais nova, escolha **Baixar atualização** e depois **Instalar e reiniciar**.
+Abra **Configurações → Atualizações → Verificar atualizações**. A consulta é manual. Quando houver uma versão mais nova, escolha **Baixar atualização** e **Instalar e reiniciar**. O atualizador usa o instalador completo e verifica sua assinatura.
 
-O aplicativo confere a assinatura e a versão do pacote antes de instalar. Perfis, atalhos, imagens, preferências e dados locais do navegador são preservados. Encerre ou conclua a edição do painel antes de atualizar.
+## Downloads, integridade e suporte
 
-## Sensores
+A [Release atual](https://github.com/fagnerlemes/DeckStudio/releases/latest) reúne o instalador completo e o patch. Os demais anexos são a assinatura, o manifesto do atualizador, hashes, instruções e licenças. A assinatura `.sig` pertence ao atualizador; não é um certificado Authenticode do Windows. Os arquivos “Source code” gerados pelo GitHub contêm a documentação pública, não o código do aplicativo.
 
-O leitor integrado contempla processadores Intel/AMD e GPUs NVIDIA/AMD/Intel, conforme suporte do hardware e permissões. Alguns sensores exigem o driver PawnIO e autorização local. Não é necessário manter TURZX, HWiNFO ou Libre Hardware Monitor aberto. Um sensor indisponível aparece sem leitura.
+As mudanças anteriores estão reunidas em [um único histórico](CHANGELOG.md). Relate problemas nas [Issues](https://github.com/fagnerlemes/DeckStudio/issues), com a versão e os passos para reproduzir.
 
-## Integridade e suporte
-
-Cada versão inclui hashes SHA-256 e avisos/licenças de terceiros. A assinatura `.sig` é usada pelo atualizador; não é um certificado Authenticode do Windows.
-
-Relate problemas nas [Issues](https://github.com/fagnerlemes/DeckStudio/issues), informando versão do Deck, versão do Windows, modelo da CPU/GPU e passos para reproduzir. Evite anexar backups pessoais ou dados de login.
-
-Este é o repositório público de distribuição. Os instaladores estão em Releases; o código-fonte proprietário e as chaves privadas de assinatura não são publicados aqui.
+Este repositório é destinado à distribuição e documentação. O código-fonte proprietário, as chaves de assinatura e os dados pessoais não são publicados aqui.
