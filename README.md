@@ -4,16 +4,22 @@ Seu espaço de comandos para Windows. **By Fagner Lemes.**
 
 Aplicativos, pastas, informações do computador e controles do dia a dia em um painel personalizável.
 
-**Versão atual: 1.1.3** — reúne o conteúdo da 1.1.0 com o Patch Fix 3, agora com numeração própria.
+**Versão atual: 1.1.4** — busca diária de atualizações, seletor de monitor no topo e nova aba Sobre o programa.
 
-[Baixar instalador completo](https://github.com/fagnerlemes/DeckStudio/releases/download/v1.1.3/DeckStudio-1.1.3-x64-setup.exe) · [Baixar patch](https://github.com/fagnerlemes/DeckStudio/releases/download/v1.1.3/DeckStudio-1.1.3-Patch-x64.exe) · [Histórico de atualizações](CHANGELOG.md)
+[Baixar instalador completo](https://github.com/fagnerlemes/DeckStudio/releases/download/v1.1.4/DeckStudio-1.1.4-x64-setup.exe) · [Baixar patch](https://github.com/fagnerlemes/DeckStudio/releases/download/v1.1.4/DeckStudio-1.1.4-Patch-x64.exe) · [Histórico de atualizações](CHANGELOG.md)
+
+## Deck Studio na sua segunda tela
+
+[![Deck Studio em um monitor portátil à frente do computador](docs/images/deck-studio-mockup.png)](docs/images/deck-studio-mockup.png)
+
+*Mockup ilustrativo com uma captura da versão 1.0.2. A disposição do equipamento é uma simulação; os downloads acima correspondem à versão atual.*
 
 ## Qual arquivo baixar?
 
 | Pacote | Quando usar |
 | --- | --- |
-| **Instalador completo 1.1.3** | Primeira instalação ou atualização de qualquer versão anterior. Não precisa desinstalar. |
-| **Patch 1.1.3** | Atualização menor para quem tem **1.1.0 Fix 2 ou Fix 3**. A base é conferida antes de alterar arquivos. |
+| **Instalador completo 1.1.4** | Primeira instalação ou atualização de qualquer versão anterior. Não precisa desinstalar. |
+| **Patch 1.1.4** | Atualização menor para quem tem **1.1.3 oficial**. A base é conferida antes de alterar arquivos. |
 
 Conclua ou cancele edições abertas antes de atualizar. Perfis, botões, widgets, layouts, configurações e dados locais do navegador são preservados. O patch fecha e reabre o Deck se ele estiver em execução.
 
@@ -65,12 +71,16 @@ Temperaturas dependem do suporte do hardware e das permissões locais. Iluminaç
 
 ## Atualizar pelo programa
 
-Abra **Configurações → Atualizações → Verificar atualizações**. A consulta é manual. Quando houver uma versão mais nova, escolha **Baixar atualização** e **Instalar e reiniciar**. O atualizador usa o instalador completo e verifica sua assinatura.
+A partir da **1.1.4**, o Deck verifica atualizações em segundo plano na primeira abertura do dia. Quando existe uma versão mais nova, um pequeno botão verde com seta e brilho circulante aparece no topo. Clicar nele abre as Atualizações; você escolhe quando baixar e instalar.
+
+Também é possível usar **Configurações → Atualizações → Verificar atualizações**. Na 1.1.3 e anteriores, a consulta é manual. O atualizador usa o instalador completo e verifica sua assinatura. Se o Deck ficar aberto durante a virada do dia, não há consulta periódica.
+
+Clique no indicador **Monitor** do topo para escolher e salvar a tela de abertura. A nova aba **Configurações → Sobre o programa** apresenta a versão, a assinatura do criador e o contato de suporte.
 
 ## Downloads, integridade e suporte
 
 A [Release atual](https://github.com/fagnerlemes/DeckStudio/releases/latest) reúne o instalador completo e o patch. Os demais anexos são a assinatura, o manifesto do atualizador, hashes, instruções e licenças. A assinatura `.sig` pertence ao atualizador; não é um certificado Authenticode do Windows. Os arquivos “Source code” gerados pelo GitHub contêm a documentação pública, não o código do aplicativo.
 
-As mudanças anteriores estão reunidas em [um único histórico](CHANGELOG.md). Relate problemas nas [Issues](https://github.com/fagnerlemes/DeckStudio/issues), com a versão e os passos para reproduzir.
+As mudanças anteriores estão reunidas em [um único histórico](CHANGELOG.md). Relate problemas nas [Issues](https://github.com/fagnerlemes/DeckStudio/issues), com a versão e os passos para reproduzir. Suporte: **fagner.lemes@gmail.com**.
 
 Este repositório é destinado à distribuição e documentação. O código-fonte proprietário, as chaves de assinatura e os dados pessoais não são publicados aqui.

@@ -2,6 +2,16 @@
 
 By Fagner Lemes. Os downloads ficam na [Release atual](https://github.com/fagnerlemes/DeckStudio/releases/latest).
 
+## 1.1.4
+
+- Busca automática de atualizações na primeira abertura do dia, com cache da consulta bem-sucedida e tentativa na próxima abertura em caso de falha de rede.
+- Botão verde com seta e brilho circulante no topo quando há versão nova; abre Atualizações sem iniciar download ou instalação automaticamente. Respeita movimento reduzido.
+- Indicador de monitor abre um seletor e salva a mesma preferência das Configurações. A escolha aplica a mudança de tela; a organização em andamento fica protegida.
+- Nova aba Sobre o programa com versão, assinatura original de Fagner Lemes e contato de suporte com opção de copiar.
+- Rolagem das categorias nas Configurações em janelas pequenas.
+
+**Pacotes:** instalador completo e patch exclusivo para a **1.1.3 oficial**. Dados e sensores autorizados são preservados; o patch reinicia o Deck se estiver aberto e mantém somente o último par de backups após sucesso.
+
 ## 1.1.3
 
 Versão pública correspondente à **1.1.0 com Patch Fix 3**. O aplicativo, o instalador e o patch passam a identificar a versão como **1.1.3**. As revisões Fix 1, Fix 2 e Fix 3 da série 1.1.0 foram distribuídas manualmente; não são Releases públicas separadas 1.1.1 e 1.1.2.
