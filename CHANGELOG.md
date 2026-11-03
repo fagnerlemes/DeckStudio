@@ -2,6 +2,17 @@
 
 By Fagner Lemes. Os downloads ficam na [Release atual](https://github.com/fagnerlemes/DeckStudio/releases/latest).
 
+## 1.1.5
+
+- Arquivos com até três abas, navegação independente e menu tradicional do Windows por clique direito ou toque mantido por dois segundos.
+- Clima no relógio com busca por cidade/estado, incluindo Santiago/RS, e controles alinhados.
+- Seletor de saída de áudio nos Controles rápidos; janela Bluetooth e editor de botões com proporções corrigidas.
+- Atalhos de aplicativos preservam destino, argumentos e pasta de trabalho. Steam prioriza sua janela principal ao restaurar da bandeja, sem perguntar sobre janelas auxiliares sem título.
+- Ctrl+Alt+D também inicia o Deck totalmente encerrado, por um auxiliar leve de teclado; combinação personalizável e opção de desativar.
+- Monitoramento de jogos/FPS iniciado automaticamente, com preferência persistente; no modo Automático acompanha o jogo em foco. A autorização do Windows para o coletor continua necessária quando solicitada.
+
+**Pacotes:** instalador completo e patch para **1.1.4 oficial ou Fix 1, 2 e 3**. Perfis, widgets, layouts, dados do navegador e sensores preservados. O patch fecha e reabre o Deck quando está em execução. Versão sem sufixo Fix.
+
 ## 1.1.4
 
 - Busca automática de atualizações na primeira abertura do dia, com cache da consulta bem-sucedida e tentativa na próxima abertura em caso de falha de rede.

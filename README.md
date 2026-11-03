@@ -4,9 +4,9 @@ Seu espaço de comandos para Windows. **By Fagner Lemes.**
 
 Aplicativos, pastas, informações do computador e controles do dia a dia em um painel personalizável.
 
-**Versão atual: 1.1.4** — busca diária de atualizações, seletor de monitor no topo e nova aba Sobre o programa.
+**Versão atual: 1.1.5** — melhorias em Arquivos, clima, áudio, atalhos e monitoramento automático de jogos.
 
-[Baixar instalador completo](https://github.com/fagnerlemes/DeckStudio/releases/download/v1.1.4/DeckStudio-1.1.4-x64-setup.exe) · [Baixar patch](https://github.com/fagnerlemes/DeckStudio/releases/download/v1.1.4/DeckStudio-1.1.4-Patch-x64.exe) · [Histórico de atualizações](CHANGELOG.md)
+[Baixar instalador completo](https://github.com/fagnerlemes/DeckStudio/releases/download/v1.1.5/DeckStudio-1.1.5-x64-setup.exe) · [Baixar patch](https://github.com/fagnerlemes/DeckStudio/releases/download/v1.1.5/DeckStudio-1.1.5-Patch-x64.exe) · [Histórico de atualizações](CHANGELOG.md)
 
 ## Deck Studio na sua segunda tela
 
@@ -18,8 +18,8 @@ Aplicativos, pastas, informações do computador e controles do dia a dia em um 
 
 | Pacote | Quando usar |
 | --- | --- |
-| **Instalador completo 1.1.4** | Primeira instalação ou atualização de qualquer versão anterior. Não precisa desinstalar. |
-| **Patch 1.1.4** | Atualização menor para quem tem **1.1.3 oficial**. A base é conferida antes de alterar arquivos. |
+| **Instalador completo 1.1.5** | Primeira instalação ou atualização de qualquer versão anterior. Não precisa desinstalar. |
+| **Patch 1.1.5** | Atualização menor para quem tem **1.1.4 oficial ou Fix 1, 2 e 3**. A base é conferida antes de alterar arquivos. |
 
 Conclua ou cancele edições abertas antes de atualizar. Perfis, botões, widgets, layouts, configurações e dados locais do navegador são preservados. O patch fecha e reabre o Deck se ele estiver em execução.
 
@@ -59,7 +59,7 @@ Escolha temas e fundos em CSS, altere cores ou use sua imagem. A aparência tamb
 
 [![Widgets de sistema, jogos, música e rede, com opções nos três pontos](docs/images/06-widgets.png)](docs/images/06-widgets.png)
 
-CPU, GPU, RAM, armazenamento, rede, relógio, tarefas, música, controles rápidos, navegador, Pastas, Jogos, Iluminação e Espaço reservado. **Pastas** oferece busca, navegação, lista com data de modificação quando há espaço e ícones grandes.
+CPU, GPU, RAM, armazenamento, rede, relógio, tarefas, música, controles rápidos, navegador, Arquivos, Jogos, Iluminação e Espaço reservado. **Arquivos** oferece até três abas, busca, navegação, lista com data de modificação quando há espaço, ícones grandes e menu do Windows com clique direito ou toque mantido por dois segundos.
 
 Temperaturas dependem do suporte do hardware e das permissões locais. Iluminação requer SignalRGB compatível. O widget Jogos usa um coletor de desempenho; sua LAT é a medida de apresentação até conclusão na GPU e pode diferir da exibida pelo Alt+R da NVIDIA.
 
@@ -67,7 +67,7 @@ Temperaturas dependem do suporte do hardware e das permissões locais. Iluminaç
 
 [![Recolher e restaurar o Deck com Ctrl+Alt+D ou pela lingueta; exportar backup nas Configurações](docs/images/07-acesso-backup.png)](docs/images/07-acesso-backup.png)
 
-**Ctrl + Alt + D** é o atalho padrão, alterável nas Configurações. A lingueta lateral também traz o Deck de volta. Exporte uma cópia do seu painel em **Configurações → Backup e dados**.
+**Ctrl + Alt + D** é o atalho padrão, alterável nas Configurações. Na 1.1.5, o atalho também inicia o Deck encerrado por um auxiliar de teclado, ativado após a primeira abertura. Desativar o atalho nas Configurações encerra o auxiliar. A lingueta lateral também traz o Deck de volta. Exporte uma cópia do seu painel em **Configurações → Backup e dados**.
 
 ## Atualizar pelo programa
 
