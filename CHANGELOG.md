@@ -2,6 +2,15 @@
 
 By Fagner Lemes. Os downloads ficam na [Release atual](https://github.com/fagnerlemes/DeckStudio/releases/latest).
 
+## 1.2.3
+
+- **Grade em meias células:** widgets aceitam tamanhos como 6 × 3,5, o que permite encaixar o painel sem as faixas vazias que sobravam entre os blocos. O arraste pelas bordas e o encaixe ao soltar um widget usam o mesmo passo de meia célula.
+- **Preencher grade** passa a aproveitar também meia célula ao ampliar os widgets.
+- **Altura da página com 13, 15 ou 18 linhas.** Com 18 linhas cabem seis atalhos de tamanho normal em uma coluna. O botão do menu da página alterna entre as alturas e não corta nem move itens.
+- Teclado: Shift + setas altera uma célula; Shift + Ctrl + setas altera meia célula. Os tamanhos aparecem com vírgula.
+- **Atenção ao atualizar:** o formato do painel passou para a versão 19. Na primeira abertura, uma cópia exata do painel anterior é guardada automaticamente. Uma versão 1.2.2 não lê o painel novo; com a sincronização por pasta entre dois computadores, atualize ambos para a 1.2.3.
+
+**Pacote:** instalador completo. Perfis, widgets, layouts, dados do navegador e sensores preservados.
 ## 1.2.2
 
 Versão pública que reúne as entregas **1.1.6 a 1.2.2**, distribuídas anteriormente de forma manual por patches; não são Releases públicas separadas. A interface identifica a versão como **1.2.2 · Revisão 2**.

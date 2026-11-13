@@ -4,9 +4,9 @@ Seu espaço de comandos para Windows. **By Fagner Lemes.**
 
 Aplicativos, pastas, informações do computador e controles do dia a dia em um painel personalizável.
 
-**Versão atual: 1.2.2** — sincronização do painel por pasta, fundos animados, central de controles com mixer, Modo jogo, Organizar Painel e integração opcional com o Edge.
+**Versão atual: 1.2.3** — grade em meias células para encaixar widgets sem sobras, com altura de página de 13, 15 ou 18 linhas.
 
-[Baixar instalador completo](https://github.com/fagnerlemes/DeckStudio/releases/download/v1.2.2/DeckStudio-1.2.2-x64-setup.exe) · [Histórico de atualizações](CHANGELOG.md)
+[Baixar instalador completo](https://github.com/fagnerlemes/DeckStudio/releases/download/v1.2.3/DeckStudio-1.2.3-x64-setup.exe) · [Histórico de atualizações](CHANGELOG.md)
 
 ## Deck Studio na sua segunda tela
 
@@ -18,9 +18,9 @@ Aplicativos, pastas, informações do computador e controles do dia a dia em um 
 
 | Pacote | Quando usar |
 | --- | --- |
-| **Instalador completo 1.2.2** | Primeira instalação ou atualização de qualquer versão anterior. Não precisa desinstalar. |
+| **Instalador completo 1.2.3** | Primeira instalação ou atualização de qualquer versão anterior. Não precisa desinstalar. |
 
-Conclua ou cancele edições abertas antes de atualizar. Perfis, botões, widgets, layouts, configurações e dados locais do navegador são preservados. A partir da 1.2.2 a distribuição pública é somente pelo instalador completo.
+Conclua ou cancele edições abertas antes de atualizar. Perfis, botões, widgets, layouts, configurações e dados locais do navegador são preservados. A partir da 1.2.2 a distribuição pública é somente pelo instalador completo. A 1.2.3 atualiza o formato do painel; se você sincroniza dois computadores, atualize os dois.
 
 ## Guia rápido
 
