@@ -2,6 +2,25 @@
 
 By Fagner Lemes. Os downloads ficam na [Release atual](https://github.com/fagnerlemes/DeckStudio/releases/latest).
 
+## 1.2.2
+
+Versão pública que reúne as entregas **1.1.6 a 1.2.2**, distribuídas anteriormente de forma manual por patches; não são Releases públicas separadas. A interface identifica a versão como **1.2.2 · Revisão 2**.
+
+- **Sincronização do painel** por pasta local do Google Drive, com ambientes Casa e Trabalho e escolha explícita em caso de conflito. Opcional e desativada por padrão.
+- **Fundos animados** WebGL (Aurora, Ondas líquidas, Iridescente e Névoa), com cores, intensidade e editor GLSL validado.
+- **Central de controles** com volume geral, saída de áudio, microfone, Bluetooth e **mixer de volume por aplicativo**.
+- **Lingueta discreta** ao recolher o Deck, com movimento e tamanho configuráveis; recolher e restaurar preservam monitor, posição e tamanho.
+- **Reverter a última atualização** pelo programa, com cópia importável do trabalho recente.
+- **Modo jogo**, para usar o Deck por toque sem tirar o foco do jogo, e botão para apagar todas as telas.
+- **Organizar Painel** com arraste em meias células, troca de widgets por grupo com prévia, cadeados, Ajustar espaços e histórico de desfazer/refazer.
+- **Atalhos** normal (3 × 3) e compacto (1,5 × 1,5); arrastar atalhos `.lnk` de aplicativos registrados no Windows; abertura que preserva destino, argumentos e pasta de trabalho.
+- **Arquivos** com unidades, endereço editável, até três abas e arraste para fora; toque curto abre e toque prolongado seleciona.
+- **Armazenamento** com várias unidades, alternância automática e abertura individual no Explorador.
+- **Jogos** reduzível a 3 × 3 e **relógio/clima** ampliado a partir de 8 × 4.
+- **Integração opcional com o Edge:** ativa a aba já aberta pelo endereço completo antes de criar outra. Exige instalar a extensão manualmente.
+- Opção local para mostrar o Deck na barra de tarefas (desligada por padrão).
+
+**Pacote:** instalador completo. Perfis, widgets, layouts, dados do navegador e sensores preservados; configuração migrada ao esquema 18, com cópia da anterior.
 ## 1.1.5
 
 - Arquivos com até três abas, navegação independente e menu tradicional do Windows por clique direito ou toque mantido por dois segundos.

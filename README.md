@@ -4,9 +4,9 @@ Seu espaço de comandos para Windows. **By Fagner Lemes.**
 
 Aplicativos, pastas, informações do computador e controles do dia a dia em um painel personalizável.
 
-**Versão atual: 1.1.5** — melhorias em Arquivos, clima, áudio, atalhos e monitoramento automático de jogos.
+**Versão atual: 1.2.2** — sincronização do painel por pasta, fundos animados, central de controles com mixer, Modo jogo, Organizar Painel e integração opcional com o Edge.
 
-[Baixar instalador completo](https://github.com/fagnerlemes/DeckStudio/releases/download/v1.1.5/DeckStudio-1.1.5-x64-setup.exe) · [Baixar patch](https://github.com/fagnerlemes/DeckStudio/releases/download/v1.1.5/DeckStudio-1.1.5-Patch-x64.exe) · [Histórico de atualizações](CHANGELOG.md)
+[Baixar instalador completo](https://github.com/fagnerlemes/DeckStudio/releases/download/v1.2.2/DeckStudio-1.2.2-x64-setup.exe) · [Histórico de atualizações](CHANGELOG.md)
 
 ## Deck Studio na sua segunda tela
 
@@ -18,10 +18,9 @@ Aplicativos, pastas, informações do computador e controles do dia a dia em um 
 
 | Pacote | Quando usar |
 | --- | --- |
-| **Instalador completo 1.1.5** | Primeira instalação ou atualização de qualquer versão anterior. Não precisa desinstalar. |
-| **Patch 1.1.5** | Atualização menor para quem tem **1.1.4 oficial ou Fix 1, 2 e 3**. A base é conferida antes de alterar arquivos. |
+| **Instalador completo 1.2.2** | Primeira instalação ou atualização de qualquer versão anterior. Não precisa desinstalar. |
 
-Conclua ou cancele edições abertas antes de atualizar. Perfis, botões, widgets, layouts, configurações e dados locais do navegador são preservados. O patch fecha e reabre o Deck se ele estiver em execução.
+Conclua ou cancele edições abertas antes de atualizar. Perfis, botões, widgets, layouts, configurações e dados locais do navegador são preservados. A partir da 1.2.2 a distribuição pública é somente pelo instalador completo.
 
 ## Guia rápido
 
@@ -67,7 +66,7 @@ Temperaturas dependem do suporte do hardware e das permissões locais. Iluminaç
 
 [![Recolher e restaurar o Deck com Ctrl+Alt+D ou pela lingueta; exportar backup nas Configurações](docs/images/07-acesso-backup.png)](docs/images/07-acesso-backup.png)
 
-**Ctrl + Alt + D** é o atalho padrão, alterável nas Configurações. Na 1.1.5, o atalho também inicia o Deck encerrado por um auxiliar de teclado, ativado após a primeira abertura. Desativar o atalho nas Configurações encerra o auxiliar. A lingueta lateral também traz o Deck de volta. Exporte uma cópia do seu painel em **Configurações → Backup e dados**.
+**Ctrl + Alt + D** é o atalho padrão, alterável nas Configurações. Desde a 1.1.5, o atalho também inicia o Deck encerrado por um auxiliar de teclado, ativado após a primeira abertura. Desativar o atalho nas Configurações encerra o auxiliar. A lingueta lateral também traz o Deck de volta. Exporte uma cópia do seu painel em **Configurações → Backup e dados**.
 
 ## Atualizar pelo programa
 
@@ -79,7 +78,7 @@ Clique no indicador **Monitor** do topo para escolher e salvar a tela de abertur
 
 ## Downloads, integridade e suporte
 
-A [Release atual](https://github.com/fagnerlemes/DeckStudio/releases/latest) reúne o instalador completo e o patch. Os demais anexos são a assinatura, o manifesto do atualizador, hashes, instruções e licenças. A assinatura `.sig` pertence ao atualizador; não é um certificado Authenticode do Windows. Os arquivos “Source code” gerados pelo GitHub contêm a documentação pública, não o código do aplicativo.
+A [Release atual](https://github.com/fagnerlemes/DeckStudio/releases/latest) reúne o instalador completo. Os demais anexos são a assinatura, o manifesto do atualizador, hashes, instruções e licenças. A assinatura `.sig` pertence ao atualizador; não é um certificado Authenticode do Windows. Os arquivos “Source code” gerados pelo GitHub contêm a documentação pública, não o código do aplicativo.
 
 As mudanças anteriores estão reunidas em [um único histórico](CHANGELOG.md). Relate problemas nas [Issues](https://github.com/fagnerlemes/DeckStudio/issues), com a versão e os passos para reproduzir. Suporte: **fagner.lemes@gmail.com**.
 
